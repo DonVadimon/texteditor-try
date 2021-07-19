@@ -1,0 +1,12 @@
+.custom-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  background: #1a8c9b;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  margin: 0 8px;
+}
